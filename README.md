@@ -1,3 +1,6 @@
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/ikomahate/void-harvest-makefun/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/ikomahate/void-harvest-makefun/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
 # VOID HARVEST: Escape the Collapse
 
 An original offline Canvas survival and extraction game, authored on the official Make.fun `best-game-01` starter. No libraries, asset downloads, remote fonts, generated images, or external audio files are required. All graphics and sound are procedural.
