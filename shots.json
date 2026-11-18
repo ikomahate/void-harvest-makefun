@@ -1,5 +1,6 @@
 [
-  { "name": "1-start.jpg", "query": "?shot=start&seed=1" },
-  { "name": "2-play.jpg", "query": "?shot=play&seed=1" },
-  { "name": "3-end.jpg", "query": "?shot=end&seed=1" }
+  { "name": "1-start.jpg", "scene": "Title screen", "capture": "Live browser viewport, 1280x800, before launch" },
+  { "name": "2-play.jpg", "scene": "Mining and combat", "capture": "Live input-driven expedition during the second wave, around 38 seconds" },
+  { "name": "3-refit.jpg", "scene": "Refit progression", "capture": "Opened with U during the same expedition after 48 seconds" },
+  { "name": "4-end.jpg", "scene": "Successful extraction", "capture": "Natural victory after charging and holding E inside the aligned gate" }
 ]
